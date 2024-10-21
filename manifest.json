@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "DexScreener Extension",
+  "description": "Scrape the DexScreener Liquidity Pool till ranking 15",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "js": ["scripts/content.js"],
+      "matches": ["https://dexscreener.com/*"]
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup/popup.html"
+  },
+  "permissions": ["fileSystemProvider"]
+}
