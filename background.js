@@ -3,6 +3,7 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
     chrome.fileSystem.chooseEntry(
       { type: "saveFile", suggestedName: "data.json" },
       (fileEntry) => {
+        console.log("Save");
         if (!fileEntry) {
           console.error("No file selected.");
           return;

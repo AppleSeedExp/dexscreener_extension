@@ -6,7 +6,9 @@
   "content_scripts": [
     {
       "js": ["scripts/content.js"],
-      "matches": ["https://dexscreener.com/*"]
+      "matches": [
+        "https://dexscreener.com/ethereum?rankBy=trendingScoreH24&order=desc"
+      ]
     }
   ],
   "background": {
@@ -15,5 +17,5 @@
   "action": {
     "default_popup": "popup/popup.html"
   },
-  "permissions": ["fileSystemProvider"]
+  "permissions": ["storage"]
 }

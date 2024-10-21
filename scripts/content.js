@@ -94,8 +94,8 @@ const start = () => {
 
     dexItems.push(item);
   }
-
-  chrome.runtime.sendMessage({ action: "saveJson", data: dexItems });
+  console.log(dexItems);
+  chrome.storage.local.set({ pools: dexItems });
 };
 
 const export2JSON = (items, fileName) => {
