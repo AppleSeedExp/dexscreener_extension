@@ -1,0 +1,287 @@
+[
+  {
+    "token": {
+      "poolName": "Uniswap",
+      "version": "v2",
+      "pool": "SPX/WETH",
+      "tokenName": "SPX6900"
+    },
+    "price": "$0.7556",
+    "age": "1y",
+    "txns": "2,758",
+    "volume": "$11.5M",
+    "makers": "1,309",
+    "fiveM": "-0.07%",
+    "oneH": "1.26%",
+    "sixH": "-9.64%",
+    "twentyH": "15.57%",
+    "liquidity": "$10.5M",
+    "mcap": "$703.5M"
+  },
+  {
+    "token": {
+      "poolName": "Uniswap",
+      "version": "v2",
+      "pool": "Kirby/WETH",
+      "tokenName": "KIRBY"
+    },
+    "price": "$0.00007356",
+    "age": "18h",
+    "txns": "4,097",
+    "volume": "$2.1M",
+    "makers": "1,274",
+    "fiveM": "5.27%",
+    "oneH": "39.10%",
+    "sixH": "72.86%",
+    "twentyH": "19,108%",
+    "liquidity": "$84K",
+    "mcap": "$728K"
+  },
+  {
+    "token": {
+      "poolName": "Uniswap",
+      "version": "v3",
+      "pool": "Jingle/WETH",
+      "tokenName": "Jingle"
+    },
+    "price": "$0.001362",
+    "age": "21h",
+    "txns": "6,896",
+    "volume": "$7.5M",
+    "makers": "2,433",
+    "fiveM": "-0.52%",
+    "oneH": "-31.21%",
+    "sixH": "59.25%",
+    "twentyH": "297%",
+    "liquidity": "$315K",
+    "mcap": "$1.3M"
+  },
+  {
+    "token": {
+      "poolName": "Uniswap",
+      "version": "v3",
+      "pool": "VOLT/TITANX",
+      "tokenName": "VOLT.WIN"
+    },
+    "price": "$0.07284",
+    "age": "24d",
+    "txns": "891",
+    "volume": "$5.1M",
+    "makers": "354",
+    "fiveM": "-0.04%",
+    "oneH": "0.17%",
+    "sixH": "-0.98%",
+    "twentyH": "0.32%",
+    "liquidity": "$13.2M",
+    "mcap": "$51.0M"
+  },
+  {
+    "token": {
+      "poolName": "Uniswap",
+      "version": "v2",
+      "pool": "FRACT/WETH",
+      "tokenName": "Fractionalise"
+    },
+    "price": "$0.008168",
+    "age": "14h",
+    "txns": "719",
+    "volume": "$1.6M",
+    "makers": "293",
+    "fiveM": "0%",
+    "oneH": "-2.49%",
+    "sixH": "-5.71%",
+    "twentyH": "-40.83%",
+    "liquidity": "$280K",
+    "mcap": "$220K"
+  },
+  {
+    "token": {
+      "poolName": "Uniswap",
+      "version": "v2",
+      "pool": "BOOM/WETH",
+      "tokenName": "Book of MAGA"
+    },
+    "price": "<span class=\"chakra-text custom-0\" title=\"$0.000001117\">$0.0<span class=\"chakra-text custom-1gosc6e\">5</span>1117</span>",
+    "age": "2d",
+    "txns": "1,364",
+    "volume": "$641K",
+    "makers": "595",
+    "fiveM": "0%",
+    "oneH": "12.54%",
+    "sixH": "21.02%",
+    "twentyH": "20.42%",
+    "liquidity": "$57K",
+    "mcap": "$470K"
+  },
+  {
+    "token": {
+      "poolName": "Uniswap",
+      "version": "v2",
+      "pool": "BITCOIN/WETH",
+      "tokenName": "HarryPotterObamaSonic10Inu"
+    },
+    "price": "$0.3336",
+    "age": "1y",
+    "txns": "1,521",
+    "volume": "$6.6M",
+    "makers": "737",
+    "fiveM": "0.01%",
+    "oneH": "-3.28%",
+    "sixH": "-4.08%",
+    "twentyH": "8.09%",
+    "liquidity": "$12.0M",
+    "mcap": "$333.5M"
+  },
+  {
+    "token": {
+      "poolName": "Uniswap",
+      "version": "v3",
+      "pool": "APE/WETH",
+      "tokenName": "ApeCoin"
+    },
+    "price": "$1.61",
+    "age": "2y",
+    "txns": "3,558",
+    "volume": "$11.4M",
+    "makers": "2,006",
+    "fiveM": "0.03%",
+    "oneH": "2.37%",
+    "sixH": "9.73%",
+    "twentyH": "4.51%",
+    "liquidity": "$1.2M",
+    "mcap": "$1.16B"
+  },
+  {
+    "token": {
+      "poolName": "Uniswap",
+      "version": "v2",
+      "pool": "KABOSU/WETH",
+      "tokenName": "Kabosu"
+    },
+    "price": "$0.00002162",
+    "age": "5d",
+    "txns": "2,087",
+    "volume": "$3.2M",
+    "makers": "1,026",
+    "fiveM": "-2.93%",
+    "oneH": "-13.19%",
+    "sixH": "7.82%",
+    "twentyH": "41.86%",
+    "liquidity": "$928K",
+    "mcap": "$9.0M"
+  },
+  {
+    "token": {
+      "poolName": "Uniswap",
+      "version": "v2",
+      "pool": "DOGE/WETH",
+      "tokenName": "Department Of Government Efficiency"
+    },
+    "price": "$0.04320",
+    "age": "2mo",
+    "txns": "1,328",
+    "volume": "$3.0M",
+    "makers": "711",
+    "fiveM": "0.03%",
+    "oneH": "-6.27%",
+    "sixH": "-16.18%",
+    "twentyH": "39.91%",
+    "liquidity": "$1.8M",
+    "mcap": "$42.3M"
+  },
+  {
+    "token": {
+      "poolName": "Uniswap",
+      "version": "v2",
+      "pool": "Mog/WETH",
+      "tokenName": "Mog Coin"
+    },
+    "price": "<span class=\"chakra-text custom-0\" title=\"$0.000002164\">$0.0<span class=\"chakra-text custom-1gosc6e\">5</span>2164</span>",
+    "age": "1y",
+    "txns": "1,084",
+    "volume": "$5.5M",
+    "makers": "686",
+    "fiveM": "-0.40%",
+    "oneH": "-0.69%",
+    "sixH": "-4.28%",
+    "twentyH": "4.59%",
+    "liquidity": "$18.4M",
+    "mcap": "$845.3M"
+  },
+  {
+    "token": {
+      "poolName": "Uniswap",
+      "version": "v3",
+      "pool": "Daram/WETH",
+      "tokenName": "Daram"
+    },
+    "price": "$0.00009381",
+    "age": "9d",
+    "txns": "2,962",
+    "volume": "$6.1M",
+    "makers": "1,680",
+    "fiveM": "0.78%",
+    "oneH": "11.55%",
+    "sixH": "-3.17%",
+    "twentyH": "60.21%",
+    "liquidity": "$2.1M",
+    "mcap": "$19.7M"
+  },
+  {
+    "token": {
+      "poolName": "Uniswap",
+      "version": "v2",
+      "pool": "$SPEEDY/WETH",
+      "tokenName": "SPEEDY"
+    },
+    "price": "$0.03581",
+    "age": "24d",
+    "txns": "3,039",
+    "volume": "$5.3M",
+    "makers": "1,327",
+    "fiveM": "0.59%",
+    "oneH": "9.98%",
+    "sixH": "-10.03%",
+    "twentyH": "27.41%",
+    "liquidity": "$661K",
+    "mcap": "$35.8M"
+  },
+  {
+    "token": {
+      "poolName": "Uniswap",
+      "version": "v2",
+      "pool": "SANIN/WETH",
+      "tokenName": "Sanin"
+    },
+    "price": "<span class=\"chakra-text custom-0\" title=\"$0.000009628\">$0.0<span class=\"chakra-text custom-1gosc6e\">5</span>9628</span>",
+    "age": "3d",
+    "txns": "2,641",
+    "volume": "$2.5M",
+    "makers": "1,042",
+    "fiveM": "0.75%",
+    "oneH": "-6.84%",
+    "sixH": "29.12%",
+    "twentyH": "168%",
+    "liquidity": "$307K",
+    "mcap": "$4.0M"
+  },
+  {
+    "token": {
+      "poolName": "Uniswap",
+      "version": "v2",
+      "pool": "KLAUS/WETH",
+      "tokenName": "Klaus"
+    },
+    "price": "$0.03822",
+    "age": "11d",
+    "txns": "1,593",
+    "volume": "$1.8M",
+    "makers": "888",
+    "fiveM": "-0.24%",
+    "oneH": "-4.60%",
+    "sixH": "-7.59%",
+    "twentyH": "-2.80%",
+    "liquidity": "$782K",
+    "mcap": "$38.2M"
+  }
+]

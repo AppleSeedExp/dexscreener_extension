@@ -95,7 +95,32 @@ const start = () => {
     dexItems.push(item);
   }
   console.log(dexItems);
-  chrome.storage.local.set({ pools: dexItems });
+  // chrome.storage.local.set({ pools: JSON.stringify(dexItems) });
+  try {
+    fetch("http://localhost:3000/save", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(dexItems),
+    })
+      .then((response) => {
+        if (!response.ok) {
+          return response.text().then((text) => {
+            throw new Error(text);
+          });
+        }
+        return response.json(); // Parse JSON if the response is okay
+      })
+      .then((data) => {
+        console.log("Success:", data);
+      })
+      .catch((error) => {
+        console.log("Error:", error);
+      });
+  } catch (err) {
+    console.log(err);
+  }
 };
 
 const export2JSON = (items, fileName) => {
